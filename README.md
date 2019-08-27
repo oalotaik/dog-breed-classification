@@ -38,7 +38,7 @@ The project is divided into 6 folders: one for the bottleneck features of the CN
 3. names_dogs.py: a list containing the breed labels
 4. screenshot.JPG: screenshot of the web app
 
-# Instructions for running the Python scripts:
+# Instructions for running the app:
 The web app is not hosted. So, to run it, follow the instructions below:
 1. Download all files and folders in the same order they are organized here
 2. Run the following command in the app's directory to run your web app: `python app.py`
@@ -47,6 +47,9 @@ The web app is not hosted. So, to run it, follow the instructions below:
 
 # Results
 The final output of the project is an interactive web app that takes an image from the user as an input and then classifies it.
+
+# Screenshot
+![Web app](https://github.com/oalotaik/dog-breed-classification/blob/master/screenshot.JPG)
 
 # Acknowledgement
 Thanks to Udacity for providing guidance to complete the project
