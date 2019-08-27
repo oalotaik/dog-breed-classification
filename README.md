@@ -37,6 +37,7 @@ The project is divided into 6 folders: one for the bottleneck features of the CN
 2. extract_bottleneck_features.py: include reference functions used in app.py
 3. names_dogs.py: a list containing the breed labels
 4. screenshot.JPG: screenshot of the web app
+5. dog_app.ipynb: jupyter notebook 
 
 # Instructions for running the app:
 The web app is not hosted. So, to run it, follow the instructions below:
